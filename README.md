@@ -2,14 +2,14 @@
 ABC Pvt Ltd Product Analysis" - Analyzing sales data, summarizing product sales, using pivot tables for insights, customizing tabs, formatting, and calculating total sales by status.
 
 Company ABC Private Limited is manufacturing and selling below mentioned Products:
-
-  •	Classic Cars
-  •	Motorcycles
-  •	Planes
-  •	Ships
-  •	Trains
-  •	Trucks and Buses
-  •	Vintage Cars
+  
+    •	Classic Cars
+    •	Motorcycles
+    •	Planes
+    •	Ships
+    •	Trains
+    •	Trucks and Buses
+    •	Vintage Cars
 
 As Business Analyst of the Company, you are required to perform following mentioned tasks on the provided dataset.
 
